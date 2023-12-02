@@ -1,6 +1,6 @@
 # DIO - Desafio - O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais
 
-[www.dio.me](www.dio.me)
+[www.dio.me](https://www.dio.me/)
 
 ## Descrição
 
